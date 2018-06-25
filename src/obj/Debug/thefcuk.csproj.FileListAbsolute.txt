@@ -1,0 +1,16 @@
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Debug\thefcuk.csprojAssemblyReference.cache
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Debug\thefcuk.csproj.CoreCompileInputs.cache
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\git dictionary.txt
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\Fastenshtein.dll
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\Fastenshtein.xml
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Debug\thefcuk.csproj.CopyComplete
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\JsonConfig.dll
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\JsonFx.dll
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\JsonConfig.pdb
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\JsonFx.xml
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\settings.conf
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\fk.exe.config
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\fk.exe
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Debug\fk.pdb
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Debug\fk.exe
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Debug\fk.pdb

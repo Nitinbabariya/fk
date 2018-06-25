@@ -1,0 +1,15 @@
+C:\Lab\GitHub\fk\src\bin\Debug\settings.conf
+C:\Lab\GitHub\fk\src\bin\Debug\fk.exe.config
+C:\Lab\GitHub\fk\src\bin\Debug\fk.exe
+C:\Lab\GitHub\fk\src\bin\Debug\fk.pdb
+C:\Lab\GitHub\fk\src\bin\Debug\Fastenshtein.dll
+C:\Lab\GitHub\fk\src\bin\Debug\JsonConfig.dll
+C:\Lab\GitHub\fk\src\bin\Debug\JsonFx.dll
+C:\Lab\GitHub\fk\src\bin\Debug\Fastenshtein.xml
+C:\Lab\GitHub\fk\src\bin\Debug\JsonConfig.pdb
+C:\Lab\GitHub\fk\src\bin\Debug\JsonFx.xml
+C:\Lab\GitHub\fk\src\obj\Debug\fk.csprojAssemblyReference.cache
+C:\Lab\GitHub\fk\src\obj\Debug\fk.csproj.CoreCompileInputs.cache
+C:\Lab\GitHub\fk\src\obj\Debug\fk.csproj.CopyComplete
+C:\Lab\GitHub\fk\src\obj\Debug\fk.exe
+C:\Lab\GitHub\fk\src\obj\Debug\fk.pdb

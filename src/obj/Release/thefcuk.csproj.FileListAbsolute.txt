@@ -1,0 +1,16 @@
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\git dictionary.txt
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\thefcuk.exe.config
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\thefcuk.exe
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\thefcuk.pdb
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Release\thefcuk.csproj.CoreCompileInputs.cache
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Release\thefcuk.exe
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Release\thefcuk.pdb
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Release\thefcuk.csprojAssemblyReference.cache
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\default.conf
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\Fastenshtein.dll
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\JsonConfig.dll
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\JsonFx.dll
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\Fastenshtein.xml
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\JsonConfig.pdb
+C:\Lab\GitHub\thefcuk\thefcuk\bin\Release\JsonFx.xml
+C:\Lab\GitHub\thefcuk\thefcuk\obj\Release\thefcuk.csproj.CopyComplete
