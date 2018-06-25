@@ -6,7 +6,7 @@ Fix command line spelling errors.
 # Why?
 This project was inspired by [The Fuck](https://github.com/nvbn/thefuck).
 
-Initially I tried to use TheFuck but I antivirus on my machine was not happy with the name of the application. It kept complaining that a HIGH severity malware is found, we could not clean up a threat. Hence I decided to writeup the one in C#.
+Initially I tried to use TheFuck but the antivirus on my machine was not happy with the name of the application. It kept complaining that a HIGH severity malware is found, we could not clean up a threat. Hence gave a try to writeup the one in C#.
 
 # Installation Instructions
 
